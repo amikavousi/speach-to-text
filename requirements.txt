@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]  # for running FastAPI
+SpeechRecognition==3.8.1
+pydub
